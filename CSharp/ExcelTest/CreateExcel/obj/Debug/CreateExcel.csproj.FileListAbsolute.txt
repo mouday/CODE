@@ -1,0 +1,9 @@
+D:\Code\ExcelTest\CreateExcel\obj\Debug\CreateExcel.csproj.ResolveComReference.cache
+D:\Code\ExcelTest\CreateExcel\bin\Debug\CreateExcel.exe
+D:\Code\ExcelTest\CreateExcel\bin\Debug\CreateExcel.pdb
+D:\Code\ExcelTest\CreateExcel\obj\Debug\CreateExcel.Form1.resources
+D:\Code\ExcelTest\CreateExcel\obj\Debug\CreateExcel.Properties.Resources.resources
+D:\Code\ExcelTest\CreateExcel\obj\Debug\CreateExcel.csproj.GenerateResource.Cache
+D:\Code\ExcelTest\CreateExcel\obj\Debug\CreateExcel.exe
+D:\Code\ExcelTest\CreateExcel\obj\Debug\CreateExcel.pdb
+D:\Code\ExcelTest\CreateExcel\obj\Debug\CreateExcel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Code\ThreadTest\ArraysTest\bin\Debug\ArraysTest.exe
+D:\Code\ThreadTest\ArraysTest\bin\Debug\ArraysTest.pdb
+D:\Code\ThreadTest\ArraysTest\obj\Debug\ArraysTest.exe
+D:\Code\ThreadTest\ArraysTest\obj\Debug\ArraysTest.pdb

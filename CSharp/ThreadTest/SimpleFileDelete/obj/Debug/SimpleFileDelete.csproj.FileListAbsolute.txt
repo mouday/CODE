@@ -1,0 +1,4 @@
+D:\Code\ThreadTest\SimpleFileDelete\bin\Debug\SimpleFileDelete.exe
+D:\Code\ThreadTest\SimpleFileDelete\bin\Debug\SimpleFileDelete.pdb
+D:\Code\ThreadTest\SimpleFileDelete\obj\Debug\SimpleFileDelete.exe
+D:\Code\ThreadTest\SimpleFileDelete\obj\Debug\SimpleFileDelete.pdb

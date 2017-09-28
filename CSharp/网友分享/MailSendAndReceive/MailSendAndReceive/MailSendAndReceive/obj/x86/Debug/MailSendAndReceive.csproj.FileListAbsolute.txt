@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\MailSendAndReceive\MailSendAndReceive\bin\Debug\MailSendAndReceive.exe
+c:\users\administrator\documents\visual studio 2010\Projects\MailSendAndReceive\MailSendAndReceive\bin\Debug\MailSendAndReceive.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MailSendAndReceive\MailSendAndReceive\obj\x86\Debug\MailSendAndReceive.mainfrm.resources
+c:\users\administrator\documents\visual studio 2010\Projects\MailSendAndReceive\MailSendAndReceive\obj\x86\Debug\MailSendAndReceive.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\MailSendAndReceive\MailSendAndReceive\obj\x86\Debug\MailSendAndReceive.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\MailSendAndReceive\MailSendAndReceive\obj\x86\Debug\MailSendAndReceive.exe
+c:\users\administrator\documents\visual studio 2010\Projects\MailSendAndReceive\MailSendAndReceive\obj\x86\Debug\MailSendAndReceive.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\MailSendAndReceive\MailSendAndReceive\bin\Debug\Interop.jmail.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\MailSendAndReceive\MailSendAndReceive\obj\x86\Debug\Interop.jmail.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\MailSendAndReceive\MailSendAndReceive\obj\x86\Debug\MailSendAndReceive.csproj.ResolveComReference.cache

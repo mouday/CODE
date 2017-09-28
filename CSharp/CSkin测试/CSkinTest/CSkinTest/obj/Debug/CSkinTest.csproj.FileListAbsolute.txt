@@ -1,0 +1,10 @@
+D:\Code\CSkin测试\CSkinTest\CSkinTest\bin\Debug\CSkinTest.exe
+D:\Code\CSkin测试\CSkinTest\CSkinTest\bin\Debug\CSkinTest.pdb
+D:\Code\CSkin测试\CSkinTest\CSkinTest\bin\Debug\CSkin.dll
+D:\Code\CSkin测试\CSkinTest\CSkinTest\bin\Debug\CSkin.xml
+D:\Code\CSkin测试\CSkinTest\CSkinTest\obj\Debug\CSkinTest.csprojResolveAssemblyReference.cache
+D:\Code\CSkin测试\CSkinTest\CSkinTest\obj\Debug\CSkinTest.Form1.resources
+D:\Code\CSkin测试\CSkinTest\CSkinTest\obj\Debug\CSkinTest.Properties.Resources.resources
+D:\Code\CSkin测试\CSkinTest\CSkinTest\obj\Debug\CSkinTest.csproj.GenerateResource.Cache
+D:\Code\CSkin测试\CSkinTest\CSkinTest\obj\Debug\CSkinTest.exe
+D:\Code\CSkin测试\CSkinTest\CSkinTest\obj\Debug\CSkinTest.pdb

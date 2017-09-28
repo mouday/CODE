@@ -1,0 +1,21 @@
+﻿<Window x:Class="MonitorFileSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MonitorFileSystem"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="82*"/>
+            <ColumnDefinition Width="369*"/>
+            <ColumnDefinition Width="66*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="WatchButton" Content="开始监控" HorizontalAlignment="Left" VerticalAlignment="Top" Width="352" Margin="0,52,0,0" Height="22" Grid.Column="1" Click="WatchButton_Click"/>
+        <ListBox x:Name="WatchOutput" HorizontalAlignment="Left" Height="205" VerticalAlignment="Top" Width="348" Margin="4,79,0,0" Grid.Column="1"/>
+        <Button x:Name="BrowseButton" Content="Browse..." HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Grid.Column="1" Margin="277,10,0,0" Height="22" Click="BrowseButton_Click"/>
+        <TextBox x:Name="LocationBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="272" Grid.Column="1" Margin="0,9,0,0" TextChanged="LocationBox_TextChanged"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,9 @@
+D:\Code\ExcelTest\MyExcelTest\obj\Debug\MyExcelTest.csproj.ResolveComReference.cache
+D:\Code\ExcelTest\MyExcelTest\bin\Debug\MyExcelTest.exe
+D:\Code\ExcelTest\MyExcelTest\bin\Debug\MyExcelTest.pdb
+D:\Code\ExcelTest\MyExcelTest\obj\Debug\MyExcelTest.csprojResolveAssemblyReference.cache
+D:\Code\ExcelTest\MyExcelTest\obj\Debug\MyExcelTest.Form1.resources
+D:\Code\ExcelTest\MyExcelTest\obj\Debug\MyExcelTest.Properties.Resources.resources
+D:\Code\ExcelTest\MyExcelTest\obj\Debug\MyExcelTest.csproj.GenerateResource.Cache
+D:\Code\ExcelTest\MyExcelTest\obj\Debug\MyExcelTest.exe
+D:\Code\ExcelTest\MyExcelTest\obj\Debug\MyExcelTest.pdb

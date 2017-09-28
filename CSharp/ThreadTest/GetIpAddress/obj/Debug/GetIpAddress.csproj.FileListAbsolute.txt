@@ -1,0 +1,5 @@
+D:\Code\ThreadTest\GetIpAddress\bin\Debug\GetIpAddress.exe
+D:\Code\ThreadTest\GetIpAddress\bin\Debug\GetIpAddress.pdb
+D:\Code\ThreadTest\GetIpAddress\obj\Debug\GetIpAddress.exe
+D:\Code\ThreadTest\GetIpAddress\obj\Debug\GetIpAddress.pdb
+D:\Code\ThreadTest\GetIpAddress\obj\Debug\GetIpAddress.csprojResolveAssemblyReference.cache

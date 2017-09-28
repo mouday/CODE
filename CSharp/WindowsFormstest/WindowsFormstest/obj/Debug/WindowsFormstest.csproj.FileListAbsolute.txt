@@ -1,0 +1,9 @@
+D:\Code\WindowsFormstest\WindowsFormstest\bin\Debug\WindowsFormstest.exe.config
+D:\Code\WindowsFormstest\WindowsFormstest\bin\Debug\WindowsFormstest.exe
+D:\Code\WindowsFormstest\WindowsFormstest\bin\Debug\WindowsFormstest.pdb
+D:\Code\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.csprojResolveAssemblyReference.cache
+D:\Code\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.Form1.resources
+D:\Code\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.Properties.Resources.resources
+D:\Code\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.csproj.GenerateResource.Cache
+D:\Code\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.exe
+D:\Code\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.pdb

@@ -1,0 +1,4 @@
+D:\Code\异常处理\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\Code\异常处理\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\Code\异常处理\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\Code\异常处理\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

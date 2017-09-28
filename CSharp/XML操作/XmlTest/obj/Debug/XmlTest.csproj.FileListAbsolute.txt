@@ -1,0 +1,8 @@
+D:\Code\XML操作\XmlTest\obj\Debug\XmlTest.csprojResolveAssemblyReference.cache
+D:\Code\XML操作\XmlTest\obj\Debug\XmlTest.Form1.resources
+D:\Code\XML操作\XmlTest\obj\Debug\XmlTest.Properties.Resources.resources
+D:\Code\XML操作\XmlTest\obj\Debug\XmlTest.csproj.GenerateResource.Cache
+D:\Code\XML操作\XmlTest\bin\Debug\XmlTest.exe
+D:\Code\XML操作\XmlTest\bin\Debug\XmlTest.pdb
+D:\Code\XML操作\XmlTest\obj\Debug\XmlTest.exe
+D:\Code\XML操作\XmlTest\obj\Debug\XmlTest.pdb

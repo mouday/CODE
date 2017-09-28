@@ -1,0 +1,5 @@
+D:\Code\ThreadTest\TimeTest\bin\Debug\TimeTest.exe
+D:\Code\ThreadTest\TimeTest\bin\Debug\TimeTest.pdb
+D:\Code\ThreadTest\TimeTest\obj\Debug\TimeTest.csprojResolveAssemblyReference.cache
+D:\Code\ThreadTest\TimeTest\obj\Debug\TimeTest.exe
+D:\Code\ThreadTest\TimeTest\obj\Debug\TimeTest.pdb

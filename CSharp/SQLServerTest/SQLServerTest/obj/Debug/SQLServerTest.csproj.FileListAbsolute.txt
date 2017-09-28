@@ -1,0 +1,8 @@
+D:\Code\SQLServerTest\SQLServerTest\bin\Debug\SQLServerTest.exe
+D:\Code\SQLServerTest\SQLServerTest\bin\Debug\SQLServerTest.pdb
+D:\Code\SQLServerTest\SQLServerTest\obj\Debug\SQLServerTest.csprojResolveAssemblyReference.cache
+D:\Code\SQLServerTest\SQLServerTest\obj\Debug\SQLServerTest.Form1.resources
+D:\Code\SQLServerTest\SQLServerTest\obj\Debug\SQLServerTest.Properties.Resources.resources
+D:\Code\SQLServerTest\SQLServerTest\obj\Debug\SQLServerTest.csproj.GenerateResource.Cache
+D:\Code\SQLServerTest\SQLServerTest\obj\Debug\SQLServerTest.exe
+D:\Code\SQLServerTest\SQLServerTest\obj\Debug\SQLServerTest.pdb

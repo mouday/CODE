@@ -1,0 +1,8 @@
+D:\Code\ExcelTest\ExcelWinForm\bin\Debug\ExcelWinForm.exe
+D:\Code\ExcelTest\ExcelWinForm\bin\Debug\ExcelWinForm.pdb
+D:\Code\ExcelTest\ExcelWinForm\obj\Debug\ExcelWinForm.csprojResolveAssemblyReference.cache
+D:\Code\ExcelTest\ExcelWinForm\obj\Debug\ExcelWinForm.Form1.resources
+D:\Code\ExcelTest\ExcelWinForm\obj\Debug\ExcelWinForm.Properties.Resources.resources
+D:\Code\ExcelTest\ExcelWinForm\obj\Debug\ExcelWinForm.csproj.GenerateResource.Cache
+D:\Code\ExcelTest\ExcelWinForm\obj\Debug\ExcelWinForm.exe
+D:\Code\ExcelTest\ExcelWinForm\obj\Debug\ExcelWinForm.pdb

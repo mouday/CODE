@@ -1,0 +1,7 @@
+D:\Code\基础复习\DrawEllipseTest\bin\Debug\DrawEllipseTest.exe
+D:\Code\基础复习\DrawEllipseTest\bin\Debug\DrawEllipseTest.pdb
+D:\Code\基础复习\DrawEllipseTest\obj\Debug\DrawEllipseTest.Form1.resources
+D:\Code\基础复习\DrawEllipseTest\obj\Debug\DrawEllipseTest.Properties.Resources.resources
+D:\Code\基础复习\DrawEllipseTest\obj\Debug\DrawEllipseTest.csproj.GenerateResource.Cache
+D:\Code\基础复习\DrawEllipseTest\obj\Debug\DrawEllipseTest.exe
+D:\Code\基础复习\DrawEllipseTest\obj\Debug\DrawEllipseTest.pdb

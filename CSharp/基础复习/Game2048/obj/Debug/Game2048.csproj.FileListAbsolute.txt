@@ -1,0 +1,7 @@
+D:\Code\基础复习\Game2048\obj\Debug\Game2048.Form1.resources
+D:\Code\基础复习\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+D:\Code\基础复习\Game2048\obj\Debug\Game2048.csproj.GenerateResource.Cache
+D:\Code\基础复习\Game2048\bin\Debug\Game2048.exe
+D:\Code\基础复习\Game2048\bin\Debug\Game2048.pdb
+D:\Code\基础复习\Game2048\obj\Debug\Game2048.exe
+D:\Code\基础复习\Game2048\obj\Debug\Game2048.pdb

@@ -1,0 +1,5 @@
+D:\Code\制作装机清单\GenerateList\GenerateList\obj\Debug\FileNameSortBySys.csprojResolveAssemblyReference.cache
+D:\Code\制作装机清单\GenerateList\GenerateList\bin\Debug\FileNameSortBySys.dll
+D:\Code\制作装机清单\GenerateList\GenerateList\bin\Debug\FileNameSortBySys.pdb
+D:\Code\制作装机清单\GenerateList\GenerateList\obj\Debug\FileNameSortBySys.dll
+D:\Code\制作装机清单\GenerateList\GenerateList\obj\Debug\FileNameSortBySys.pdb

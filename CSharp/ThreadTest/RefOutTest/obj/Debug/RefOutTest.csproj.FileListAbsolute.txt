@@ -1,0 +1,4 @@
+D:\Code\ThreadTest\RefOutTest\bin\Debug\RefOutTest.exe
+D:\Code\ThreadTest\RefOutTest\bin\Debug\RefOutTest.pdb
+D:\Code\ThreadTest\RefOutTest\obj\Debug\RefOutTest.exe
+D:\Code\ThreadTest\RefOutTest\obj\Debug\RefOutTest.pdb

@@ -1,0 +1,5 @@
+D:\Code\ThreadTest\SimpleFileCopy\bin\Debug\SimpleFileCopy.exe
+D:\Code\ThreadTest\SimpleFileCopy\bin\Debug\SimpleFileCopy.pdb
+D:\Code\ThreadTest\SimpleFileCopy\obj\Debug\SimpleFileCopy.csprojResolveAssemblyReference.cache
+D:\Code\ThreadTest\SimpleFileCopy\obj\Debug\SimpleFileCopy.exe
+D:\Code\ThreadTest\SimpleFileCopy\obj\Debug\SimpleFileCopy.pdb

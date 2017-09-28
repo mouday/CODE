@@ -1,0 +1,5 @@
+D:\Code\PythonDemo\CSDllTest\obj\Debug\CSDllTest.csprojResolveAssemblyReference.cache
+D:\Code\PythonDemo\CSDllTest\bin\Debug\CSDllTest.dll
+D:\Code\PythonDemo\CSDllTest\bin\Debug\CSDllTest.pdb
+D:\Code\PythonDemo\CSDllTest\obj\Debug\CSDllTest.dll
+D:\Code\PythonDemo\CSDllTest\obj\Debug\CSDllTest.pdb

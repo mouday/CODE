@@ -1,0 +1,5 @@
+D:\Code\ThreadTest\RefArrayTest\bin\Debug\RefArrayTest.exe
+D:\Code\ThreadTest\RefArrayTest\bin\Debug\RefArrayTest.pdb
+D:\Code\ThreadTest\RefArrayTest\obj\Debug\RefArrayTest.csprojResolveAssemblyReference.cache
+D:\Code\ThreadTest\RefArrayTest\obj\Debug\RefArrayTest.exe
+D:\Code\ThreadTest\RefArrayTest\obj\Debug\RefArrayTest.pdb

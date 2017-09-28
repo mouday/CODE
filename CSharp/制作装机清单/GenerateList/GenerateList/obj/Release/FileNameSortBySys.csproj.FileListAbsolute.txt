@@ -1,0 +1,4 @@
+D:\Code\制作装机清单\GenerateList\GenerateList\bin\Release\PSY.FileNameSortBySys.dll
+D:\Code\制作装机清单\GenerateList\GenerateList\bin\Release\PSY.FileNameSortBySys.pdb
+D:\Code\制作装机清单\GenerateList\GenerateList\obj\Release\PSY.FileNameSortBySys.dll
+D:\Code\制作装机清单\GenerateList\GenerateList\obj\Release\PSY.FileNameSortBySys.pdb

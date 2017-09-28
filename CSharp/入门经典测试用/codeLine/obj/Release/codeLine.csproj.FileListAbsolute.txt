@@ -1,0 +1,5 @@
+D:\Code\入门经典测试用\codeLine\bin\Release\codeLine.exe
+D:\Code\入门经典测试用\codeLine\bin\Release\codeLine.pdb
+D:\Code\入门经典测试用\codeLine\obj\Release\codeLine.csprojResolveAssemblyReference.cache
+D:\Code\入门经典测试用\codeLine\obj\Release\codeLine.exe
+D:\Code\入门经典测试用\codeLine\obj\Release\codeLine.pdb

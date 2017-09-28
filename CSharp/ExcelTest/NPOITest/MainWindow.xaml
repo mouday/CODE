@@ -1,0 +1,15 @@
+﻿<Window x:Class="NPOITest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="254" Width="472">
+    <Grid Margin="0,0,2,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnNew" Grid.ColumnSpan="2" Content="新建" HorizontalAlignment="Left" VerticalAlignment="Top" Width="74" Margin="40,46,0,0" Height="23" Click="btnNew_Click"/>
+
+    </Grid>
+</Window>

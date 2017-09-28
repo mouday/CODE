@@ -1,0 +1,7 @@
+D:\博客园里的例子\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\博客园里的例子\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\博客园里的例子\TCPClient\TCPClient\obj\x86\Debug\TCPClient.frmSyncTCPClient.resources
+D:\博客园里的例子\TCPClient\TCPClient\obj\x86\Debug\TCPClient.Properties.Resources.resources
+D:\博客园里的例子\TCPClient\TCPClient\obj\x86\Debug\SyncTCPClient.csproj.GenerateResource.Cache
+D:\博客园里的例子\TCPClient\TCPClient\obj\x86\Debug\TCPClient.exe
+D:\博客园里的例子\TCPClient\TCPClient\obj\x86\Debug\TCPClient.pdb

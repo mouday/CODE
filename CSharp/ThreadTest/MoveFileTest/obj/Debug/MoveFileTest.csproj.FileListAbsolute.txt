@@ -1,0 +1,5 @@
+D:\Code\ThreadTest\MoveFileTest\bin\Debug\MoveFileTest.exe
+D:\Code\ThreadTest\MoveFileTest\bin\Debug\MoveFileTest.pdb
+D:\Code\ThreadTest\MoveFileTest\obj\Debug\MoveFileTest.csprojResolveAssemblyReference.cache
+D:\Code\ThreadTest\MoveFileTest\obj\Debug\MoveFileTest.exe
+D:\Code\ThreadTest\MoveFileTest\obj\Debug\MoveFileTest.pdb

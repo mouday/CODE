@@ -1,0 +1,18 @@
+c:\users\psy\documents\visual studio 2015\Projects\订单数据收集器\OrderCollection\bin\Debug\OrderCollection.exe.config
+c:\users\psy\documents\visual studio 2015\Projects\订单数据收集器\OrderCollection\bin\Debug\OrderCollection.exe
+c:\users\psy\documents\visual studio 2015\Projects\订单数据收集器\OrderCollection\bin\Debug\OrderCollection.pdb
+c:\users\psy\documents\visual studio 2015\Projects\订单数据收集器\OrderCollection\obj\Debug\OrderCollection.csprojResolveAssemblyReference.cache
+c:\users\psy\documents\visual studio 2015\Projects\订单数据收集器\OrderCollection\obj\Debug\OrderCollection.Form1.resources
+c:\users\psy\documents\visual studio 2015\Projects\订单数据收集器\OrderCollection\obj\Debug\OrderCollection.Properties.Resources.resources
+c:\users\psy\documents\visual studio 2015\Projects\订单数据收集器\OrderCollection\obj\Debug\OrderCollection.csproj.GenerateResource.Cache
+c:\users\psy\documents\visual studio 2015\Projects\订单数据收集器\OrderCollection\obj\Debug\OrderCollection.exe
+c:\users\psy\documents\visual studio 2015\Projects\订单数据收集器\OrderCollection\obj\Debug\OrderCollection.pdb
+D:\Code\订单数据收集器\OrderCollection\bin\Debug\OrderCollection.exe.config
+D:\Code\订单数据收集器\OrderCollection\obj\Debug\OrderCollection.exe
+D:\Code\订单数据收集器\OrderCollection\obj\Debug\OrderCollection.pdb
+D:\Code\订单数据收集器\OrderCollection\bin\Debug\OrderCollection.exe
+D:\Code\订单数据收集器\OrderCollection\bin\Debug\OrderCollection.pdb
+D:\Code\订单数据收集器\OrderCollection\obj\Debug\OrderCollection.csprojResolveAssemblyReference.cache
+D:\Code\订单数据收集器\OrderCollection\obj\Debug\OrderCollection.Form1.resources
+D:\Code\订单数据收集器\OrderCollection\obj\Debug\OrderCollection.Properties.Resources.resources
+D:\Code\订单数据收集器\OrderCollection\obj\Debug\OrderCollection.csproj.GenerateResource.Cache

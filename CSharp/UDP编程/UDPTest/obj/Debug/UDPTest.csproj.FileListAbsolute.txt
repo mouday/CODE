@@ -1,0 +1,8 @@
+D:\Code\UDP编程\UDPTest\obj\Debug\UDPTest.csprojResolveAssemblyReference.cache
+D:\Code\UDP编程\UDPTest\obj\Debug\UDPClient.frmUdp.resources
+D:\Code\UDP编程\UDPTest\obj\Debug\UDPTest.csproj.GenerateResource.Cache
+D:\Code\UDP编程\UDPTest\bin\Debug\UDPTest.exe
+D:\Code\UDP编程\UDPTest\bin\Debug\UDPTest.pdb
+D:\Code\UDP编程\UDPTest\obj\Debug\UDPClient.Properties.Resources.resources
+D:\Code\UDP编程\UDPTest\obj\Debug\UDPTest.exe
+D:\Code\UDP编程\UDPTest\obj\Debug\UDPTest.pdb

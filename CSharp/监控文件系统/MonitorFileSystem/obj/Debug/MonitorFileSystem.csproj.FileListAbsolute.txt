@@ -1,0 +1,14 @@
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\bin\Debug\MonitorFileSystem.exe.config
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\bin\Debug\MonitorFileSystem.exe
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\bin\Debug\MonitorFileSystem.pdb
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\obj\Debug\MonitorFileSystem.csprojResolveAssemblyReference.cache
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\obj\Debug\MainWindow.g.cs
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\obj\Debug\App.g.cs
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\obj\Debug\MonitorFileSystem_MarkupCompile.cache
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\obj\Debug\MonitorFileSystem_MarkupCompile.lref
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\obj\Debug\MainWindow.baml
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\obj\Debug\MonitorFileSystem.g.resources
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\obj\Debug\MonitorFileSystem.Properties.Resources.resources
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\obj\Debug\MonitorFileSystem.csproj.GenerateResource.Cache
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\obj\Debug\MonitorFileSystem.exe
+c:\users\psy\documents\visual studio 2015\Projects\监控文件系统\MonitorFileSystem\obj\Debug\MonitorFileSystem.pdb

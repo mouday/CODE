@@ -1,0 +1,5 @@
+D:\Code\CS实例好几十例\StringTest\bin\Debug\StringTest.exe
+D:\Code\CS实例好几十例\StringTest\bin\Debug\StringTest.pdb
+D:\Code\CS实例好几十例\StringTest\obj\Debug\StringTest.csprojResolveAssemblyReference.cache
+D:\Code\CS实例好几十例\StringTest\obj\Debug\StringTest.exe
+D:\Code\CS实例好几十例\StringTest\obj\Debug\StringTest.pdb

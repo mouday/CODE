@@ -1,0 +1,15 @@
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\bin\Debug\UDPBroadcast.exe
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\bin\Debug\UDPBroadcast.pdb
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.UdpBroadcasefrm.resources
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.Properties.Resources.resources
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.csproj.GenerateResource.Cache
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.exe
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.pdb
+D:\Code\网友分享\UDPBroadcast\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.exe
+D:\Code\网友分享\UDPBroadcast\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.pdb
+D:\Code\网友分享\UDPBroadcast\UDPBroadcast\UDPBroadcast\bin\Debug\UDPBroadcast.exe
+D:\Code\网友分享\UDPBroadcast\UDPBroadcast\UDPBroadcast\bin\Debug\UDPBroadcast.pdb
+D:\Code\网友分享\UDPBroadcast\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.csprojResolveAssemblyReference.cache
+D:\Code\网友分享\UDPBroadcast\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.UdpBroadcasefrm.resources
+D:\Code\网友分享\UDPBroadcast\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.Properties.Resources.resources
+D:\Code\网友分享\UDPBroadcast\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+D:\Code\网络编程\MyServer\bin\Debug\MyServer.exe
+D:\Code\网络编程\MyServer\bin\Debug\MyServer.pdb
+D:\Code\网络编程\MyServer\obj\Debug\MyServer.csprojResolveAssemblyReference.cache
+D:\Code\网络编程\MyServer\obj\Debug\MyServer.Form1.resources
+D:\Code\网络编程\MyServer\obj\Debug\MyServer.Properties.Resources.resources
+D:\Code\网络编程\MyServer\obj\Debug\MyServer.csproj.GenerateResource.Cache
+D:\Code\网络编程\MyServer\obj\Debug\MyServer.exe
+D:\Code\网络编程\MyServer\obj\Debug\MyServer.pdb

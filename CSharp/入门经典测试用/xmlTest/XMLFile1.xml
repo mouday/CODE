@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stories>
+  <story>
+    <title>A House in Aungier Street</title>
+    <author>
+      <name>le fanu</name>
+      <nationality>irish1</nationality>
+    </author>
+    <rating>eerie</rating>
+  </story>
+  <story>
+    <title>B House in Aungier Street</title>
+    <author>
+      <name>la fanu</name>
+      <nationality>irish</nationality>
+    </author>
+    <rating>eerie</rating>
+  </story>
+  <story>
+    <title>C House in Aungier Street</title>
+    <author>
+      <name>lb fanu</name>
+      <nationality>irish</nationality>
+    </author>
+    <rating>eerie</rating>
+  </story>
+</stories>

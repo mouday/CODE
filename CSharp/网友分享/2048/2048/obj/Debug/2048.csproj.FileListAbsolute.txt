@@ -1,0 +1,9 @@
+C:\Users\PSY\Desktop\2048\2048\bin\Debug\2048.exe.config
+C:\Users\PSY\Desktop\2048\2048\bin\Debug\2048.exe
+C:\Users\PSY\Desktop\2048\2048\bin\Debug\2048.pdb
+C:\Users\PSY\Desktop\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\PSY\Desktop\2048\2048\obj\Debug\Miko.CSharp.Form2048.Form1.resources
+C:\Users\PSY\Desktop\2048\2048\obj\Debug\Miko.CSharp.Form2048.Properties.Resources.resources
+C:\Users\PSY\Desktop\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\PSY\Desktop\2048\2048\obj\Debug\2048.exe
+C:\Users\PSY\Desktop\2048\2048\obj\Debug\2048.pdb

@@ -1,0 +1,6 @@
+D:\Code\ThreadTest\ThreadTestConsole\bin\Debug\ThreadTestConsole.exe
+D:\Code\ThreadTest\ThreadTestConsole\bin\Debug\ThreadTestConsole.pdb
+D:\Code\ThreadTest\ThreadTestConsole\obj\Debug\ThreadTestConsole.exe
+D:\Code\ThreadTest\ThreadTestConsole\obj\Debug\ThreadTestConsole.pdb
+D:\Code\ThreadTest\ThreadTestConsole\obj\Debug\ThreadTestConsole.csprojResolveAssemblyReference.cache
+D:\Code\ThreadTest\ThreadTestConsole\bin\Debug\ThreadTestConsole.exe.config

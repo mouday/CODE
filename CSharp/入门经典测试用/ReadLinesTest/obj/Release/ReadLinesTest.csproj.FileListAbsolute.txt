@@ -1,0 +1,6 @@
+D:\Code\入门经典测试用\ReadLinesTest\bin\Release\ReadLinesTest.exe.config
+D:\Code\入门经典测试用\ReadLinesTest\bin\Release\ReadLinesTest.exe
+D:\Code\入门经典测试用\ReadLinesTest\bin\Release\ReadLinesTest.pdb
+D:\Code\入门经典测试用\ReadLinesTest\obj\Release\ReadLinesTest.csprojResolveAssemblyReference.cache
+D:\Code\入门经典测试用\ReadLinesTest\obj\Release\ReadLinesTest.exe
+D:\Code\入门经典测试用\ReadLinesTest\obj\Release\ReadLinesTest.pdb

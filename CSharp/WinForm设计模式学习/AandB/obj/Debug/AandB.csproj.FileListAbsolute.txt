@@ -1,0 +1,5 @@
+D:\Code\WinForm设计模式学习\AandB\bin\Debug\AandB.exe
+D:\Code\WinForm设计模式学习\AandB\bin\Debug\AandB.pdb
+D:\Code\WinForm设计模式学习\AandB\obj\Debug\AandB.csprojResolveAssemblyReference.cache
+D:\Code\WinForm设计模式学习\AandB\obj\Debug\AandB.exe
+D:\Code\WinForm设计模式学习\AandB\obj\Debug\AandB.pdb

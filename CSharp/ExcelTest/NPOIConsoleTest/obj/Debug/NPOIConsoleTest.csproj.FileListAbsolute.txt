@@ -1,0 +1,11 @@
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Debug\NPOIConsoleTest.exe
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Debug\NPOIConsoleTest.pdb
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Debug\NPOI.dll
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Debug\NPOI.OOXML.dll
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Debug\NPOI.xml
+D:\Code\ExcelTest\NPOIConsoleTest\obj\Debug\NPOIConsoleTest.csprojResolveAssemblyReference.cache
+D:\Code\ExcelTest\NPOIConsoleTest\obj\Debug\NPOIConsoleTest.exe
+D:\Code\ExcelTest\NPOIConsoleTest\obj\Debug\NPOIConsoleTest.pdb

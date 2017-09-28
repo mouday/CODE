@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerLabel", "WindowsFormsApplication1\TimerLabel.csproj", "{B222B155-CDC9-4779-BF03-5E8C3DCFB31D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoQuestion", "AutoQuestion\AutoQuestion.csproj", "{8112BDB3-1AA9-4666-BBBA-34C3569E024C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawEllipseTest", "DrawEllipseTest\DrawEllipseTest.csproj", "{B16746CF-F600-4E94-A798-7D918D101F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game2048", "Game2048\Game2048.csproj", "{6831CE65-56F8-4169-BB1F-D2FFCA13DC91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B222B155-CDC9-4779-BF03-5E8C3DCFB31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B222B155-CDC9-4779-BF03-5E8C3DCFB31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B222B155-CDC9-4779-BF03-5E8C3DCFB31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B222B155-CDC9-4779-BF03-5E8C3DCFB31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8112BDB3-1AA9-4666-BBBA-34C3569E024C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8112BDB3-1AA9-4666-BBBA-34C3569E024C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8112BDB3-1AA9-4666-BBBA-34C3569E024C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8112BDB3-1AA9-4666-BBBA-34C3569E024C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B16746CF-F600-4E94-A798-7D918D101F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16746CF-F600-4E94-A798-7D918D101F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16746CF-F600-4E94-A798-7D918D101F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16746CF-F600-4E94-A798-7D918D101F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6831CE65-56F8-4169-BB1F-D2FFCA13DC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6831CE65-56F8-4169-BB1F-D2FFCA13DC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6831CE65-56F8-4169-BB1F-D2FFCA13DC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6831CE65-56F8-4169-BB1F-D2FFCA13DC91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

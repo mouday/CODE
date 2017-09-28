@@ -1,0 +1,5 @@
+D:\Code\入门经典测试用\xmlTest\bin\Release\xmlTest.exe.config
+D:\Code\入门经典测试用\xmlTest\bin\Release\xmlTest.exe
+D:\Code\入门经典测试用\xmlTest\bin\Release\xmlTest.pdb
+D:\Code\入门经典测试用\xmlTest\obj\Release\xmlTest.exe
+D:\Code\入门经典测试用\xmlTest\obj\Release\xmlTest.pdb

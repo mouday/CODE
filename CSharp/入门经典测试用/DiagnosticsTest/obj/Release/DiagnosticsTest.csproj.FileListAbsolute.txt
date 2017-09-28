@@ -1,0 +1,5 @@
+D:\Code\入门经典测试用\DiagnosticsTest\bin\Release\DiagnosticsTest.exe.config
+D:\Code\入门经典测试用\DiagnosticsTest\bin\Release\DiagnosticsTest.exe
+D:\Code\入门经典测试用\DiagnosticsTest\bin\Release\DiagnosticsTest.pdb
+D:\Code\入门经典测试用\DiagnosticsTest\obj\Release\DiagnosticsTest.exe
+D:\Code\入门经典测试用\DiagnosticsTest\obj\Release\DiagnosticsTest.pdb

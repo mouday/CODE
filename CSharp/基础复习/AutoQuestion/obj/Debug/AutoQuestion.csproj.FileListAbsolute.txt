@@ -1,0 +1,8 @@
+D:\Code\基础复习\AutoQuestion\bin\Debug\AutoQuestion.exe
+D:\Code\基础复习\AutoQuestion\bin\Debug\AutoQuestion.pdb
+D:\Code\基础复习\AutoQuestion\obj\Debug\AutoQuestion.csprojResolveAssemblyReference.cache
+D:\Code\基础复习\AutoQuestion\obj\Debug\AutoQuestion.Properties.Resources.resources
+D:\Code\基础复习\AutoQuestion\obj\Debug\AutoQuestion.csproj.GenerateResource.Cache
+D:\Code\基础复习\AutoQuestion\obj\Debug\AutoQuestion.exe
+D:\Code\基础复习\AutoQuestion\obj\Debug\AutoQuestion.pdb
+D:\Code\基础复习\AutoQuestion\obj\Debug\AutoQuestion.MainForm.resources

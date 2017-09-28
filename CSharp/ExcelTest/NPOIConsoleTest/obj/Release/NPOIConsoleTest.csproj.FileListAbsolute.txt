@@ -1,0 +1,8 @@
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Release\NPOIConsoleTest.exe
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Release\NPOI.dll
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Release\NPOI.OOXML.dll
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Release\NPOI.OpenXml4Net.dll
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Release\NPOI.OpenXmlFormats.dll
+D:\Code\ExcelTest\NPOIConsoleTest\bin\Release\NPOI.xml
+D:\Code\ExcelTest\NPOIConsoleTest\obj\Release\NPOIConsoleTest.exe

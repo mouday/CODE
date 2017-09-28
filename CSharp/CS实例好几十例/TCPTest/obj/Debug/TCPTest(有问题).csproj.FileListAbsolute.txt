@@ -1,0 +1,2 @@
+D:\Code\CS实例好几十例\TCPTest\obj\Debug\TCPTest.exe
+D:\Code\CS实例好几十例\TCPTest\obj\Debug\TCPTest.pdb

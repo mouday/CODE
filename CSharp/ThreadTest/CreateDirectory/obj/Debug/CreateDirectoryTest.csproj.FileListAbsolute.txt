@@ -1,0 +1,5 @@
+D:\Code\ThreadTest\CreateDirectory\bin\Debug\CreateDirectory.exe
+D:\Code\ThreadTest\CreateDirectory\bin\Debug\CreateDirectory.pdb
+D:\Code\ThreadTest\CreateDirectory\obj\Debug\CreateDirectoryTest.csprojResolveAssemblyReference.cache
+D:\Code\ThreadTest\CreateDirectory\obj\Debug\CreateDirectory.exe
+D:\Code\ThreadTest\CreateDirectory\obj\Debug\CreateDirectory.pdb

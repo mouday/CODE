@@ -1,0 +1,6 @@
+c:\users\psy\documents\visual studio 2015\Projects\中文转拼音\chConvertTopy\bin\Debug\chConvertTopy.exe.config
+c:\users\psy\documents\visual studio 2015\Projects\中文转拼音\chConvertTopy\bin\Debug\chConvertTopy.exe
+c:\users\psy\documents\visual studio 2015\Projects\中文转拼音\chConvertTopy\bin\Debug\chConvertTopy.pdb
+c:\users\psy\documents\visual studio 2015\Projects\中文转拼音\chConvertTopy\obj\Debug\chConvertTopy.csprojResolveAssemblyReference.cache
+c:\users\psy\documents\visual studio 2015\Projects\中文转拼音\chConvertTopy\obj\Debug\chConvertTopy.exe
+c:\users\psy\documents\visual studio 2015\Projects\中文转拼音\chConvertTopy\obj\Debug\chConvertTopy.pdb

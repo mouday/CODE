@@ -1,0 +1,5 @@
+D:\Code\WinForm设计模式学习\BuilderMode\bin\Debug\BuilderMode.exe
+D:\Code\WinForm设计模式学习\BuilderMode\bin\Debug\BuilderMode.pdb
+D:\Code\WinForm设计模式学习\BuilderMode\obj\Debug\BuilderMode.csprojResolveAssemblyReference.cache
+D:\Code\WinForm设计模式学习\BuilderMode\obj\Debug\BuilderMode.exe
+D:\Code\WinForm设计模式学习\BuilderMode\obj\Debug\BuilderMode.pdb

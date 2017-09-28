@@ -1,0 +1,8 @@
+D:\Code\CS开发实战1200例\AllowDropFile\bin\Debug\AllowDropFile.exe
+D:\Code\CS开发实战1200例\AllowDropFile\bin\Debug\AllowDropFile.pdb
+D:\Code\CS开发实战1200例\AllowDropFile\obj\Debug\AllowDropFile.csprojResolveAssemblyReference.cache
+D:\Code\CS开发实战1200例\AllowDropFile\obj\Debug\AllowDropFile.Form1.resources
+D:\Code\CS开发实战1200例\AllowDropFile\obj\Debug\AllowDropFile.Properties.Resources.resources
+D:\Code\CS开发实战1200例\AllowDropFile\obj\Debug\AllowDropFile.csproj.GenerateResource.Cache
+D:\Code\CS开发实战1200例\AllowDropFile\obj\Debug\AllowDropFile.exe
+D:\Code\CS开发实战1200例\AllowDropFile\obj\Debug\AllowDropFile.pdb

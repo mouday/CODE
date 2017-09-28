@@ -1,0 +1,7 @@
+D:\博客园里的例子\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+D:\博客园里的例子\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+D:\博客园里的例子\TCPServer\TCPServer\obj\x86\Debug\TCPServer.frmSyncTcpServer.resources
+D:\博客园里的例子\TCPServer\TCPServer\obj\x86\Debug\TCPServer.Properties.Resources.resources
+D:\博客园里的例子\TCPServer\TCPServer\obj\x86\Debug\SyncTCPServer.csproj.GenerateResource.Cache
+D:\博客园里的例子\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+D:\博客园里的例子\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb

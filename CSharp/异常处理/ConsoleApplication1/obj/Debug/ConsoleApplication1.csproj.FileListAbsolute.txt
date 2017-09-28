@@ -1,0 +1,5 @@
+D:\Code\异常处理\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Code\异常处理\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Code\异常处理\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Code\异常处理\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Code\异常处理\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

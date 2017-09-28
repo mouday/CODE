@@ -1,0 +1,5 @@
+D:\Code\ThreadTest\DriveInfo\bin\Debug\DriveInfoTest.exe
+D:\Code\ThreadTest\DriveInfo\bin\Debug\DriveInfoTest.pdb
+D:\Code\ThreadTest\DriveInfo\obj\Debug\DriveInfoTest.exe
+D:\Code\ThreadTest\DriveInfo\obj\Debug\DriveInfoTest.pdb
+D:\Code\ThreadTest\DriveInfo\obj\Debug\DriveInfoTest.csprojResolveAssemblyReference.cache

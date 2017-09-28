@@ -1,0 +1,5 @@
+D:\Code\ThreadTest\LearnMSDN\bin\Debug\LearnMSDN.exe
+D:\Code\ThreadTest\LearnMSDN\bin\Debug\LearnMSDN.pdb
+D:\Code\ThreadTest\LearnMSDN\obj\Debug\LearnMSDN.csprojResolveAssemblyReference.cache
+D:\Code\ThreadTest\LearnMSDN\obj\Debug\LearnMSDN.exe
+D:\Code\ThreadTest\LearnMSDN\obj\Debug\LearnMSDN.pdb

@@ -1,0 +1,2 @@
+D:\Code\基础复习\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Code\基础复习\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

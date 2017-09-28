@@ -1,0 +1,5 @@
+D:\Code\网络编程\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Code\网络编程\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Code\网络编程\ConsoleApplication1\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
+D:\Code\网络编程\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Code\网络编程\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

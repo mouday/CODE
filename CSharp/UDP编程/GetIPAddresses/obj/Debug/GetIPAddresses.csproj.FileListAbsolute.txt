@@ -1,0 +1,9 @@
+D:\Code\UDP编程\GetIPAddresses\bin\Debug\GetIPAddresses.exe
+D:\Code\UDP编程\GetIPAddresses\bin\Debug\GetIPAddresses.pdb
+D:\Code\UDP编程\GetIPAddresses\obj\Debug\GetIPAddresses.Form1.resources
+D:\Code\UDP编程\GetIPAddresses\obj\Debug\GetIPAddresses.Properties.Resources.resources
+D:\Code\UDP编程\GetIPAddresses\obj\Debug\GetIPAddresses.csproj.GenerateResource.Cache
+D:\Code\UDP编程\GetIPAddresses\obj\Debug\GetIPAddresses.exe
+D:\Code\UDP编程\GetIPAddresses\obj\Debug\GetIPAddresses.pdb
+D:\Code\UDP编程\GetIPAddresses\bin\Debug\GetIPAddresses.exe.config
+D:\Code\UDP编程\GetIPAddresses\obj\Debug\GetIPAddresses.csprojResolveAssemblyReference.cache

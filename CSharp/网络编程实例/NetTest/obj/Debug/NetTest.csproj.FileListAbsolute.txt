@@ -1,0 +1,8 @@
+D:\Code\网络编程实例\NetTest\bin\Debug\NetTest.exe
+D:\Code\网络编程实例\NetTest\bin\Debug\NetTest.pdb
+D:\Code\网络编程实例\NetTest\obj\Debug\NetTest.csprojResolveAssemblyReference.cache
+D:\Code\网络编程实例\NetTest\obj\Debug\NetTest.Form1.resources
+D:\Code\网络编程实例\NetTest\obj\Debug\NetTest.Properties.Resources.resources
+D:\Code\网络编程实例\NetTest\obj\Debug\NetTest.csproj.GenerateResource.Cache
+D:\Code\网络编程实例\NetTest\obj\Debug\NetTest.exe
+D:\Code\网络编程实例\NetTest\obj\Debug\NetTest.pdb

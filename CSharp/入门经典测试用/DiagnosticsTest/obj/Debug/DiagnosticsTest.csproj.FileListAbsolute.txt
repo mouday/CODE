@@ -1,0 +1,6 @@
+D:\Code\入门经典测试用\DiagnosticsTest\bin\Debug\DiagnosticsTest.exe.config
+D:\Code\入门经典测试用\DiagnosticsTest\bin\Debug\DiagnosticsTest.exe
+D:\Code\入门经典测试用\DiagnosticsTest\bin\Debug\DiagnosticsTest.pdb
+D:\Code\入门经典测试用\DiagnosticsTest\obj\Debug\DiagnosticsTest.csprojResolveAssemblyReference.cache
+D:\Code\入门经典测试用\DiagnosticsTest\obj\Debug\DiagnosticsTest.exe
+D:\Code\入门经典测试用\DiagnosticsTest\obj\Debug\DiagnosticsTest.pdb

@@ -1,0 +1,5 @@
+D:\Code\WinForm设计模式学习\BaseDerived\bin\Debug\BaseDerived.exe
+D:\Code\WinForm设计模式学习\BaseDerived\bin\Debug\BaseDerived.pdb
+D:\Code\WinForm设计模式学习\BaseDerived\obj\Debug\BaseDerived.csprojResolveAssemblyReference.cache
+D:\Code\WinForm设计模式学习\BaseDerived\obj\Debug\BaseDerived.exe
+D:\Code\WinForm设计模式学习\BaseDerived\obj\Debug\BaseDerived.pdb

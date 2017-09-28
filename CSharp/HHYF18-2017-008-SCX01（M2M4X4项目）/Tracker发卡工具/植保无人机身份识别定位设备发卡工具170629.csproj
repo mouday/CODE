@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>1817F85D-300A-47EB-8A6A-8AC6919477E8</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>DASH Hairpin Tool</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Drawing" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BHDC.HCMP.Utils\Config.cs" />
+    <Compile Include="DASH_Hairpin_Tool.Properties\Resources.cs" />
+    <Compile Include="DASH_Hairpin_Tool.Properties\Settings.cs" />
+    <Compile Include="DASH_Video_Hairpin_Tool\Form1.cs" />
+    <Compile Include="DASH_Video_Hairpin_Tool\Program.cs" />
+    <Compile Include="DASH_Video_Hairpin_Tool\publicConst.cs" />
+    <Compile Include="DASH_Video_Hairpin_Tool\TCPConnectFrm.cs" />
+    <Compile Include="UnicomTool\PCSC.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DASH_Hairpin_Tool.Properties\Resources.resources" />
+    <EmbeddedResource Include="DASH_Video_Hairpin_Tool\Form1.resources" />
+    <EmbeddedResource Include="DASH_Video_Hairpin_Tool\TCPConnectFrm.resources" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

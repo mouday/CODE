@@ -1,0 +1,6 @@
+D:\Code\入门经典测试用\CommandLineArguments\bin\Release\CommandLineArguments.exe.config
+D:\Code\入门经典测试用\CommandLineArguments\bin\Release\CommandLineArguments.exe
+D:\Code\入门经典测试用\CommandLineArguments\bin\Release\CommandLineArguments.pdb
+D:\Code\入门经典测试用\CommandLineArguments\obj\Release\CommandLineArguments.csprojResolveAssemblyReference.cache
+D:\Code\入门经典测试用\CommandLineArguments\obj\Release\CommandLineArguments.exe
+D:\Code\入门经典测试用\CommandLineArguments\obj\Release\CommandLineArguments.pdb

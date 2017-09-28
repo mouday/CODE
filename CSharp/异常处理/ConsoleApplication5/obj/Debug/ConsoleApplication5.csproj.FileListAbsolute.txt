@@ -1,0 +1,4 @@
+D:\Code\异常处理\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\Code\异常处理\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\Code\异常处理\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\Code\异常处理\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

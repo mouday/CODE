@@ -1,0 +1,7 @@
+D:\Code\FTPMonitor\FTPMonitor\bin\Debug\FTPMonitor.exe
+D:\Code\FTPMonitor\FTPMonitor\bin\Debug\FTPMonitor.pdb
+D:\Code\FTPMonitor\FTPMonitor\obj\Debug\FTPMonitor.csprojResolveAssemblyReference.cache
+D:\Code\FTPMonitor\FTPMonitor\obj\Debug\FTPMonitor.exe
+D:\Code\FTPMonitor\FTPMonitor\obj\Debug\FTPMonitor.pdb
+D:\Code\FTPMonitor\FTPMonitor\obj\Debug\FTPMonitor.DownloadFtpFile.resources
+D:\Code\FTPMonitor\FTPMonitor\obj\Debug\FTPMonitor.csproj.GenerateResource.Cache

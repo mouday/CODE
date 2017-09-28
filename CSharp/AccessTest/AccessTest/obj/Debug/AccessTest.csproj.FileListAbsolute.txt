@@ -1,0 +1,17 @@
+c:\users\psy\documents\visual studio 2015\Projects\AccessTest\AccessTest\bin\Debug\AccessTest.exe
+c:\users\psy\documents\visual studio 2015\Projects\AccessTest\AccessTest\bin\Debug\AccessTest.pdb
+c:\users\psy\documents\visual studio 2015\Projects\AccessTest\AccessTest\obj\Debug\AccessTest.csprojResolveAssemblyReference.cache
+c:\users\psy\documents\visual studio 2015\Projects\AccessTest\AccessTest\obj\Debug\AccessTest.Form1.resources
+c:\users\psy\documents\visual studio 2015\Projects\AccessTest\AccessTest\obj\Debug\AccessTest.Properties.Resources.resources
+c:\users\psy\documents\visual studio 2015\Projects\AccessTest\AccessTest\obj\Debug\AccessTest.csproj.GenerateResource.Cache
+c:\users\psy\documents\visual studio 2015\Projects\AccessTest\AccessTest\obj\Debug\AccessTest.exe
+c:\users\psy\documents\visual studio 2015\Projects\AccessTest\AccessTest\obj\Debug\AccessTest.pdb
+D:\Code\AccessTest\AccessTest\obj\Debug\AccessTest.exe
+D:\Code\AccessTest\AccessTest\obj\Debug\AccessTest.pdb
+D:\Code\AccessTest\AccessTest\bin\Debug\AccessTest.exe
+D:\Code\AccessTest\AccessTest\bin\Debug\AccessTest.pdb
+D:\Code\AccessTest\AccessTest\obj\Debug\AccessTest.csprojResolveAssemblyReference.cache
+D:\Code\AccessTest\AccessTest\obj\Debug\AccessTest.Form1.resources
+D:\Code\AccessTest\AccessTest\obj\Debug\AccessTest.FormFTPClient.resources
+D:\Code\AccessTest\AccessTest\obj\Debug\AccessTest.Properties.Resources.resources
+D:\Code\AccessTest\AccessTest\obj\Debug\AccessTest.csproj.GenerateResource.Cache
